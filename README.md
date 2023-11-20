@@ -7,7 +7,7 @@ Yassine ABOU HADID
 
 Othmane AKHSAS
 
-----------------------------------------------
+----------------------------------------------------
 In portfolio construction, avoiding the concentration of all assets in one investment is vital. Asset diversification serves as an effective strategy to mitigate both systematic risk and idiosyncratic shocks. By diversifying allocations, the entire portfolio becomes resilient to the fluctuations associated with individual stocks or specific securities classes.
 
 Modern Portfolio Theory stands out as the ideal mathematical framework for constructing a portfolio that maximizes expected returns for a given risk level. Nevertheless, a recent trend challenges this conventional approach, introducing **graph theory** as an alternative for portfolio optimization. In the finance landscape, numerous quantitative firms leverage sophisticated mathematical tools to navigate the market. The pertinent question that arises, despite the allure of its sophistication, is whether graph theory proves effective in the realm of portfolio optimization.
